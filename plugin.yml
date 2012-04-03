@@ -1,0 +1,47 @@
+﻿author: SwearWord
+description: Allows players to buy and sell goods on a VirtualShop.
+main: org.blockface.virtualshop.VirtualShop
+name: VirtualShop
+url: http://blockface.org/
+version: b115
+commands:
+    buy:
+        description: Buy goods for sale on the VirtualShop.
+        usage: /buy <amount> <item> [maxprice]
+    sell:
+        description: Put goods up for sale on the VirtualShop.
+        usage: /sell <amount> <item> <price> | /sell <amount> hand <price>
+    cancel:
+        description: Removes items from VirtualShop.
+        usage: /cancel <item>
+    find:
+        description: Find offers for an item.
+        usage: /price <item>
+    stock:
+        description: List items for sale.
+        usage: /list [player] [page]
+    sales:
+        description: See sales that have been made.
+        usage: /sales [player] [page]
+    vs:
+        description: Displays help.
+        usage: /vs
+permissions:
+    virtualshop.sell:
+        description: Allow usage of /sell
+        default: true
+    virtualshop.buy:
+        description: Allow usage of /buy
+        default: true
+    virtualshop.find:
+        description: Allow usage of /find
+        default: true
+    virtualshop.cancel:
+        description: Allow usage of /cancel
+        default: true
+    virtualshop.stock:
+        description: Allow usage of /stock
+        default: true
+    virtualshop.sales:
+        description: Allow usage of /sales
+        default: true

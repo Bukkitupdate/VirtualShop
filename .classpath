@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Bukkit.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/3co.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/BOSEconomy7.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/CurrencyCore.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/EconXP.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/Essentials.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/eWallet.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/iConomy4.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/iConomy5.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/iConomy6.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/MineConomy.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/workspace/APIs/Econ/MultiCurrency.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
